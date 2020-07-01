@@ -6,6 +6,6 @@ I request and insist all not you use the name of "Faith Academy Schools" anywher
 
 And All are free to copy part of source codes, syntaxes and use it as blank form for your institution for the same purpose of distribution of e-certificates.
 
-Work License under Apache 2.0 License
+Work Licensed under Apache License Version 2.0, January 2004
 
 Please attribute the owners of this code i.e. Animish Yadav, @AnimishY on GitHub
